@@ -1,0 +1,33 @@
+Take a Pill plans your medications around your mealtimes and lets you check them off from your Home Screen with one tap. No account, no ads, and all your data stays on your device.
+
+PLANNED AROUND YOUR MEALS
+Set your wake-up, breakfast, lunch, dinner and bedtime once. Doses like "30 minutes before breakfast" or "at bedtime" are timed from your routine and move automatically when it changes. The empty or full stomach note appears on every reminder.
+
+"TAKEN" FROM YOUR HOME SCREEN
+The widget shows your next doses and today's progress. Mark a dose as taken without opening the app. There's a Lock Screen widget too.
+
+AN ALARM THAT RINGS IN SILENT MODE
+On iOS 26 and later, a real alarm rings at dose time: it appears on the Lock Screen and in the Dynamic Island and breaks through silent mode and Focus. Snooze it, or tap Open to mark the dose with one tap. Earlier iOS versions get a sound notification.
+
+KNOW YOUR PILLS
+Pick the shape (round, oval, oblong, capsule, diamond), one or two colors and a score line. Each medication appears as it really looks in lists and in the widget, so similar pills don't get mixed up.
+
+STOCK AND EXPIRY DATES
+Enter how many you have; every "Taken" is subtracted. You get a heads-up before you run out, with a shortcut to nearby pharmacies in Maps, and a reminder before the expiry date.
+
+ADHERENCE REPORT FOR YOUR DOCTOR
+Create a PDF of the last 7, 30 or 90 days with your overall adherence and taken, skipped and missed doses for each medication, then share it by email or message.
+
+FLEXIBLE SCHEDULES
+• Once or several times a day, on certain weekdays or every few days
+• Interval courses like "every 8 hours", with start and end dates
+• A daily maximum for as-needed medications
+• Optional early reminder, a "Did you take it?" follow-up and snooze
+
+PRIVACY
+No account, server, ads or analytics. Your data stays on this device.
+
+IMPORTANT
+Take a Pill is a reminder tool. It doesn't give medical advice and isn't intended for diagnosis or treatment. Talk to your doctor or pharmacist about decisions on your medication.
+
+Available in English and Turkish.

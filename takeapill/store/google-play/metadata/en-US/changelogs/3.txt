@@ -1,0 +1,1 @@
+New: English support, check off doses from the home screen widget, realistic pill appearance, stock and expiry tracking with a pharmacy shortcut, and PDF adherence reports.

@@ -1,0 +1,1 @@
+Yeni: İngilizce dil desteği, ana ekran widget'ından "Aldım", gerçeğe benzeyen hap görünümü, stok ve son kullanma tarihi takibi, eczane kısayolu ve PDF uyum raporu.
