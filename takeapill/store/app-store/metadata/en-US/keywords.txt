@@ -1,1 +1,0 @@
-medication,meds,alarm,dose,tracker,widget,refill,pharmacy,adherence,report,schedule,expiry,vitamin

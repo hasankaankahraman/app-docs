@@ -1,1 +1,0 @@
-Meal-timed med reminders, widget check-off, refill alerts and PDF reports.

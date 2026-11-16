@@ -1,1 +1,0 @@
-alarm,hap,doz,widget,stok,eczane,uyum,rapor,vitamin,takviye,kür,aç,tok,saat,takip
